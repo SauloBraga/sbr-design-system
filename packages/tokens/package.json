@@ -1,0 +1,19 @@
+{
+  "name": "@sbr-ui/tokens",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
+  },
+  "devDependencies": {
+    "@sbr-ui/ts-config": "*",
+    "@sbr-ui/eslint-config": "*",
+    "tsup": "^6.6.3",
+    "typescript": "^4.9.5"
+  }
+}

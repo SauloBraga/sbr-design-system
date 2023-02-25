@@ -1,0 +1,4 @@
+{
+  "extends": "@sbr-ui/ts-config/base.json",
+  "include": ["src"],
+}

@@ -1,0 +1,2 @@
+import{A as t}from"./index-3932f7cc.js";import"./index-58281300.js";import"./iframe-5c047999.js";import"./index-a6a3160f.js";import"./jsx-runtime-a8940278.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/saulobraga.png",alt:"Saulo Braga"},argTypes:{src:{control:{type:"text"}}}},c={},l={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,l as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-6a2655cf.js.map
